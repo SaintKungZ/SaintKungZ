@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SaintKungZ/SaintKungZ/output/snake.svg" alt="Snake animation" />
+<img src="sanke.yml" alt="Snake animation" />
 
 ###
 
